@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Email" role="img"
+width="66" height="66"
+viewBox="0 0 512 512">
+  <rect width="212" height="212" rx="15%" fill="none"/>
+  <rect width="356" height="256" x="78" y="128" fill="#ABABAB" rx="8%"/>
+  <path fill="none" stroke="#202020" stroke-width="20" d="M434 128L269 292c-7 8-19 8-26 0L78 128m0 256l129-128m227 128L305 256"/>
+</svg>
